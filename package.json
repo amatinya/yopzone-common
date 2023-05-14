@@ -1,0 +1,24 @@
+{
+    "name": "@amatinya/yopzone-common",
+    "version": "1.0.0",
+    "description": "Common data types of Yopzone",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist/"
+    ],
+    "scripts": {
+        "build": "tsc --build",
+        "prebuild": "prettier --write ./src && tsc --build --clean"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/amatinya/yopzone-common.git"
+    },
+    "author": "amatinya",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/amatinya/yopzone-common/issues"
+    },
+    "homepage": "https://github.com/amatinya/yopzone-common#readme"
+}
