@@ -1,3 +1,3 @@
 export interface IChangeUserUsernameDto {
-    readonly newUsename: string;
+    readonly newUsername: string;
 }

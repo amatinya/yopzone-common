@@ -1,4 +1,4 @@
 export interface IChangeUserUsernameDto {
-    readonly newUsename: string;
+    readonly newUsername: string;
 }
 //# sourceMappingURL=change-user-username.dto.d.ts.map

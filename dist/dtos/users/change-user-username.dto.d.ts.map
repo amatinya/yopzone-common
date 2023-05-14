@@ -1,1 +1,1 @@
-{"version":3,"file":"change-user-username.dto.d.ts","sourceRoot":"","sources":["../../../src/dtos/users/change-user-username.dto.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,sBAAsB;IACnC,QAAQ,CAAC,UAAU,EAAE,MAAM,CAAC;CAC/B"}
+{"version":3,"file":"change-user-username.dto.d.ts","sourceRoot":"","sources":["../../../src/dtos/users/change-user-username.dto.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,sBAAsB;IACnC,QAAQ,CAAC,WAAW,EAAE,MAAM,CAAC;CAChC"}
