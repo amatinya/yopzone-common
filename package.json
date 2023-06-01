@@ -1,6 +1,6 @@
 {
     "name": "@amatinya/yopzone-common",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Common data types of Yopzone",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
